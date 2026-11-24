@@ -1,0 +1,6 @@
+interface:
+  display_name: "Pet Sketch Illustrations"
+  short_description: "기술 글 본문 삽화 및 손그림 삽화 구상, 강아지·고양이 캐릭터 설명 그림 생성"
+  default_prompt: "한국어 기술 글의 손그림 본문 삽화를 구상하거나 생성해 줘."
+policy:
+  allow_implicit_invocation: true

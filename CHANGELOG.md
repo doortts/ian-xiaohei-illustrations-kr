@@ -1,33 +1,13 @@
 # Changelog
 
-All notable changes to this repository are tracked here.
+All notable changes to this project will be documented in this file.
 
-## 0.1.1 - 2026-06-06
-
-### Added
-
-- Add behavior eval fixtures for planning, generation, editing, saving, QA handoff, and trigger-boundary cases.
-- Add validator checks that bind behavior fixtures to the skill and reference source files.
-
-### Changed
-
-- Clarify that saved images go under the current workspace root, not the installed skill bundle.
-- Add mode-specific reference loading guidance.
-- Require a compact per-image QA manifest in final handoffs.
-- Define direct generation without an explicit count as 3 images.
-- Narrow implicit use boundaries for generic illustration, PPT, commercial brand art, children's cartoons, and non-Xiaohei image requests.
-
-## 0.1.0 - 2026-06-06
+## 0.1.0 - 2026-11-24
 
 ### Added
-
-- Add explicit skill operating modes: `plan_only`, `generate`, `edit`, and `save`.
-- Add a pre-generation image spec contract before `image_gen` calls.
-- Add deterministic save rules for slugged folders, sequential filenames, collision suffixes, and absolute-path handoffs.
-- Add a zero-dependency repository validator exposed through `npm test`.
-- Add copied-skill version tracking through `ian-xiaohei-illustrations/VERSION`.
-
-### Changed
-
-- Expand prompt and QA references so generation, editing, and saving rules are visible to future agents.
-- Document the validation workflow in the README.
+- 한국어 기술 문서 및 개발 블로그용 손그림 본문 삽화 Skill 초안 구현 (`pet-sketch-illustrations`).
+- 강아지(귀, 주둥이, 꼬리)와 고양이(삼각 귀, 긴 꼬리) 캐릭터 IP 및 상대 크기 임시 기준 시트(`character-reference-sheet.png`).
+- 4가지 실행 모드 정의: `plan_only`, `generate`, `edit`, `save`.
+- 16:9 가로형 순백색 배경, 손글씨 한국어 주석, 여백 규칙, 제목 배제 원칙 정의.
+- Codex(`.agents/skills/`), Antigravity(`.agents/skills/`), Claude Code(`.claude/skills/`) 설치 지원.
+- 파일 중복 방지 접미사(`-v2`, `-v3`) 및 절대 경로 보고 규칙 적용.
