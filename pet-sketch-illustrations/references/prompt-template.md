@@ -26,11 +26,12 @@ Pure white background (#FFFFFF) with at least 40% clean empty whitespace. Authen
 High-contrast ink weight: use solid black ink fills on key anchors (the black cat, dog's black ears/spot, clips, rollers, dark crevices) so the sketch has strong tonal contrast on white.
 NO hollow uniform-stroke coloring-book outlines. NO faint gray lines for background objects. NO color tints, pastel blush, or shading on animal bodies or furniture. NO paper texture, no gradients, no shadows, no PPT infographic, no children's picture book style, no cute chibi mascots, no plain modern office clipart.
 
-Recurring Characters (follow attached character reference sheet — STRICTLY BIPEDAL):
-- Both Dog and Cat are anthropomorphized system workers: they ALWAYS stand and walk upright on TWO legs like humans, with TWO arms for operating tools/ropes/cranks (NEVER walking on four legs).
-- 강아지 (Dog): Minimalist white capsule/bean upright body with slightly wobbly black ink outline (ZERO fur hatching, ZERO realistic paws/mouth lines), solid-black chalky ink floppy ears, blunt snout with single black dot nose, simple black dot eyes, TWO thin black stick legs, TWO thin black stick arms, short black stick tail, deadpan worker attitude.
-- 고양이 (Cat): ~15-20% smaller solid-black chalky ink upright cat with white dot eyes, sharp triangular ears, thin whiskers, TWO thin black legs, TWO thin black arms, long curving tail, deadpan unimpressed expression.
-Characters must perform the core physical work inside a weird low-tech contraption—never stand decoratively.
+Recurring Characters (follow attached character reference sheet — STRICTLY BIPEDAL & ROLE-SEPARATED):
+- Role choice: Choose only the actors needed for this concept (Dog solo / Cat solo / Dog + Cat for internal system mechanics; add Human Woman or Man whenever the scene involves a user, developer, editor, or curator outside the system).
+- 강아지 (Dog — System Worker): Minimalist white upright capsule/bean body with slightly wobbly black ink outline (ZERO fur hatching, ZERO realistic paws/mouth lines), solid-black chalky ink floppy ears, blunt snout with single black dot nose, simple black dot eyes, TWO thin black stick legs, TWO thin black stick arms, short black stick tail, deadpan worker attitude.
+- 고양이 (Cat — System Worker): ~15-20% smaller solid-black chalky ink upright cat with white dot eyes, sharp triangular ears, thin whiskers, TWO thin black legs, TWO thin black arms, long curving tail, deadpan unimpressed expression.
+- 사람 (Human — Woman or Man, ~2x taller than pets, include ONLY when representing a human user/developer/curator): Minimalist Ian-style person wearing a solid-black chalky ink sweater/shirt and white-outlined pants, solid-black ink hair (woman: bun/ponytail; man: short neat hair), clean white face with tiny black dot eyes and deadpan/thoughtful expression.
+Characters must perform the core physical work inside or alongside a weird low-tech contraption—never stand decoratively.
 
 Theme:
 {글의 주제 또는 시스템 맥락}

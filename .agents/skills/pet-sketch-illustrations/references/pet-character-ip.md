@@ -1,42 +1,45 @@
-# Pet Character IP (강아지와 고양이 — 이족 보행 의인화 기본)
+# Pet Character IP (시스템: 강아지·고양이 / 외부 주체: 사람)
 
-## Character Definition
+## Role Separation: System vs. Human
 
-Two recurring anthropomorphic animal operators for Ian-style Korean technical article illustrations. Neither is a cute sticker, mascot, or corner decoration. Like Xiaohei in the original series, both are **deadpan, graphic, slightly absurd bipedal system workers** who walk on **two legs like humans** and use **two arms/hands** to haul, pull, crank, chop, block, and operate low-tech contraptions inside the metaphor.
+This skill separates **system execution** from **human experience or judgment** so metaphors read clearly:
 
-**Mandatory Posture Rule (Bipedal by Default):**
-- **Always walk and stand upright on two legs** (이족 보행 기본), never on all fours (네 발 보행 금지).
-- Both characters have **two legs for standing/walking** and **two distinct arms** for manipulating tools, levers, ropes, boxes, and machines.
+- **강아지 & 고양이 = System / Automation / Backend Operators**:
+  - Represent caches, pipelines, models, databases, queues, or internal mechanisms.
+  - **Do NOT force both animals into every frame.** Pick only what the concept needs: Dog solo, Cat solo, or Dog + Cat together.
+- **사람 (여자 / 남자) = Human (User / Developer / Editor / Curator)**:
+  - Whenever the concept describes **a person outside the system**—a user receiving stale/fresh results, a developer inspecting output, or a human curator deciding what is valuable—draw an **actual human character**, NOT an animal standing in for the human.
+  - When a scene explains pure internal system mechanics with no human actor involved, omit humans to keep the frame clean.
 
-## Visual Contrast & Anatomy
+## Mandatory Posture & Contrast Rules
 
-Follow `assets/character-reference-sheet.png` for exact silhouettes and proportions:
+- **Animals (Strictly Bipedal)**: Both Dog and Cat ALWAYS stand and walk upright on **two legs like humans**, with **two arms/hands** for operating contraptions (never on all fours).
+- **Relative Scale**: Humans are naturally taller (~2x the height of the bipedal Dog/Cat). The Cat is ~15-20% smaller than the Dog.
+- **Ink Weight Consistency**: The solid-black ink cat, the dog's black ink ears, and the human's **solid-black sweater/hair** share the exact same chalky ink density on `#FFFFFF` white paper.
 
-### 1. 강아지 (Dog — Bipedal Minimalist Capsule Dog)
-- **Silhouette & Posture**: **Clean white upright/rounded capsule-bean torso** drawn with a single slightly wobbly black ink pen line—ZERO fur hatching, ZERO realistic paws/toes, ZERO mouth wrinkles. Stands and walks upright on **two thin black stick legs**, with **two thin black stick arms** (just like Xiaohei's stick limbs).
-- **Distinctive Features**:
-  - **Solid-black chalky ink floppy ears** drooping on the sides of the head.
-  - Blunt **snout protrusion** on the face (clearly visible in side profile) with a single **solid-black dot nose** and simple **black dot eyes**.
-  - A **short black stick tail** at the lower back.
-- **Attitude**: Deadpan, earnest, doggedly focused worker. Never a smiling cartoon mascot.
+Follow `assets/character-reference-sheet.png` for exact silhouettes and scale:
 
-### 2. 고양이 (Cat — Bipedal Solid Black Ink Operator)
-- **Silhouette & Posture**: **Solid ink-black upright bean/cat body** with subtle rough chalk/pen nib texture and **white dot eyes** (like Xiaohei's feline cousin), ~15-20% smaller than the dog. Walks and stands upright on **two thin black legs**, with **two thin black arms** for operating levers, snipping ropes, and tossing stale items.
-- **Distinctive Features**: Sharp **triangular ears**, sleek face without snout, thin whiskers, **long expressive curving black tail**.
-- **Attitude**: Deadpan, watchful, unsentimental, slightly unimpressed.
+### 1. 강아지 (Dog — Bipedal Minimalist Capsule System Worker)
+- **Silhouette & Posture**: Clean white upright/rounded capsule-bean torso with a single slightly wobbly black ink line—ZERO fur hatching, ZERO realistic paws/toes, ZERO mouth wrinkles. Walks upright on **two thin black stick legs**, with **two thin black stick arms**.
+- **Distinctive Features**: Solid-black chalky ink floppy ears, blunt snout protrusion with single solid-black dot nose, simple black dot eyes, short black stick tail.
+- **Attitude**: Deadpan, earnest, doggedly focused system worker.
 
-## Role Division
+### 2. 고양이 (Cat — Bipedal Solid Black Ink System Worker)
+- **Silhouette & Posture**: Solid ink-black upright body with subtle rough chalk/pen nib texture and **white dot eyes**, ~15-20% smaller than the dog. Walks upright on **two thin black legs**, with **two thin black arms**.
+- **Distinctive Features**: Sharp triangular ears, sleek face without snout, thin whiskers, long expressive curving black tail.
+- **Attitude**: Deadpan, watchful, unsentimental system operator.
 
-- Use **only one character** whenever one actor cleanly explains the concept.
-- Use **both characters** when the concept depends on handoff, separation of duties, or tension (e.g., bipedal capsule dog cranks/fetches from origin while bipedal black-ink cat pulls trapdoor levers to purge stale cache).
+### 3. 사람 (Human — Woman & Man in Ian's Minimalist Ink Style)
+- **Visual Grammar (Matching the Reference Style)**:
+  - **Clothing & Ink Anchor**: **Solid-black chalky ink long-sleeve sweater/shirt** paired with clean white-outlined pants and simple black shoes, matching the visual weight of the black cat and Xiaohei.
+  - **Face & Hair**: Minimalist white face with tiny **black dot eyes**, subtle short nose/mouth mark (deadpan, thoughtful, or wry—never anime/chibi), and **solid-black ink hair**:
+    - **여성 (Woman)**: Tied-back bun or low ponytail in solid-black ink (matching Ian's curator style).
+    - **남성 (Man)**: Short neat or slightly tousled solid-black ink hair in the exact same minimalist line-art weight.
+- **Typical Actions**: Holding up a card to inspect value, tossing irrelevant output into a bin, waiting at a counter/cup for a response, noticing stale info, pulling a release trigger.
 
 ## Don'ts
 
-- **NEVER draw either animal walking on four legs** (no quadruped stance in front, side, or action poses unless the user explicitly asks for crawling).
-- Do NOT add fur hatching, realistic paws, or chibi/smiling faces to the Capsule Dog.
-- Do NOT add color tints, pink inner ears, peach cheeks, or clothing to either animal.
-- Do NOT leave them standing on the sidelines watching a diagram.
-
-## Rule of Thumb
-
-If covering the dog or cat with your thumb still leaves the core technical explanation intact, the character is merely decorative. Rewrite the scene so the animal's physical effort IS the mechanism.
+- **NEVER draw the Dog or Cat walking on four legs**.
+- **NEVER force Dog + Cat together** when one animal (or one animal + one human) explains the idea better.
+- **NEVER let an animal act as the "user" or "human curator"** when the text explicitly contrasts system work vs. human judgment/experience.
+- Do NOT add color tints, pink cheeks, fur hatching, or detailed anime eyes to any character.

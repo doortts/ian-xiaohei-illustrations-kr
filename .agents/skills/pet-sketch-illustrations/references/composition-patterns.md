@@ -41,9 +41,9 @@ Choose one structure only per image. Do not mix multiple frameworks.
 Every time, reinvent a strange, concrete metaphor from the current article. Never settle for plain modern office clipart (like an ordinary office desk drawer, metal filing cabinet, or cylinder office trash can).
 
 ### Three Steps
-1. **Turn the abstract concept into a physical action**: get stuck, leak, weigh down, yank a cord, crank, ferment, bridge a chasm, snip a thread, pry open a tin box, sweep debris off a shelf.
-2. **Turn the system structure into a weird low-tech contraption**: see the Object Pool below.
-3. **Put the dog or cat inside the work**: cranking the handle, tangled in the cord, perched on the crate rim snipping a stale tag, hauling across stepping stones, guarding a trapdoor.
+1. **Pick the right actors (`System` vs. `Human`)**: Decide whether the core idea is pure system work (**Dog solo**, **Cat solo**, or **Dog + Cat**) or system-to-human interaction (**Dog/Cat operating the mechanism** + **Woman/Man as user, developer, or curator**).
+2. **Turn the abstract concept into a physical action**: get stuck, leak, weigh down, yank a cord, crank, ferment, bridge a chasm, snip a thread, pry open a tin box, sweep debris off a shelf, inspect & discard.
+3. **Turn the system structure into a weird low-tech contraption & put the actors to work**: see the Object Pool below—cranking the handle, perched on the crate rim snipping a stale tag, or a human curator holding up an output card while tossing the rest.
 
 ### Low-Tech Object Pool
 - Hand-cranked presses, stone wells, wooden crates with latches, tin lunchboxes, funnels, balance scales, pulleys & ropes, knotted orange threads, wooden plank bridges over cliffs, glass fermentation jars, mechanical stampers, mail chutes, chutes & trapdoors, clotheslines with clips, rickety ladders, locked iron vaults.
